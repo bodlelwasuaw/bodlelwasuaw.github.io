@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodlelwasuaw.github.io/sitemap.xml
